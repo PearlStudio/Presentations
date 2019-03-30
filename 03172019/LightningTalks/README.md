@@ -30,4 +30,6 @@ https://www.meetup.com/en-AU/LA-Animation-and-VFX-Pipeline-Developers-Meetup/eve
 
 ![](slides/Slide11.jpg)
 
-You can also download a pdf at [LA_Pipeline_Developers_Meetup_03272019_SatishGoda_VR-Workflows-PearlStudio.pdf] (https://github.com/PearlStudio/Presentations/raw/LAPipeDevelopersMeetup/03172019/LightningTalks/slides/LA_Pipeline_Developers_Meetup_03272019_SatishGoda_VR-Workflows-PearlStudio.pdf LA Pipeline Developers Meetup - 03272019 - VR Workflows Pearl Studio.pdf)
+You can also download a pdf from [here](slides/LA_Pipeline_Developers_Meetup_03272019_SatishGoda_VR-Workflows-PearlStudio.pdf)
+
+If you have any questions, feel free to reach out to me at satish.goda@pearlstudio.com
