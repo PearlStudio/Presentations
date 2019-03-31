@@ -24,6 +24,10 @@ https://www.meetup.com/en-AU/LA-Animation-and-VFX-Pipeline-Developers-Meetup/eve
 
 ![](slides/Slide8.jpg)
 
+Click the image below to view the demo
+
+[![Google Tilt Brush, Pixar USD and Unity3d - Demo](http://img.youtube.com/vi/EVMVgeTXFzs/0.jpg)](http://www.youtube.com/watch?v=EVMVgeTXFzs "Google Tilt Brush, Pixar USD and Unity3d - Demo")
+
 ![](slides/Slide9.jpg)
 
 ![](slides/Slide10.jpg)
