@@ -30,6 +30,8 @@ Click the image below to view the demo
 
 ![](slides/Slide9.jpg)
 
+[![Pixar USD Kitchen Set in Unity using Pixar USD Unity SDK](http://img.youtube.com/vi/qhALISMqHwk/0.jpg)](https://www.youtube.com/watch?v=qhALISMqHwk "Pixar USD Kitchen Set in Unity using Pixar USD Unity SDK")
+
 ![](slides/Slide10.jpg)
 
 ![](slides/Slide11.jpg)
